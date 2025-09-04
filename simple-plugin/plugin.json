@@ -1,0 +1,11 @@
+{
+  "name": "simple-plugin",
+  "author": "User",
+  "version": "1.0.0",
+  "minAppVersion": "3.3.1",
+  "backends": ["windows", "linux", "darwin"],
+  "frontends": ["desktop", "browser-desktop"],
+  "displayName": {"default": "简单插件"},
+  "description": {"default": "一个简单的思源笔记插件示例"},
+  "readme": {"default": "README.md"}
+}
